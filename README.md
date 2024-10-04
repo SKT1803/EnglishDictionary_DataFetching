@@ -1,3 +1,24 @@
+<h2>Simple dictionary interface</h2>
+<b>Used JavaScript, React Framework & CSS</b>
+<br>
+<br>
+In this project, I created an English dictionary by fetching data. It is currently in the development phase.
+<br>
+<br>
+Features:
+<br>
+<br>
+<ul>
+    <li>When searching for a word, a keyboard sound effect has been added when you press the key.</li>
+    <li>It starts fetching data as soon as you start typing and displays the words that inside of your typing until you finish typing.</li>
+    <li>The word reading feature has been added. Click on the voice button.</li>
+    <li>Only one version of the word (noun, verb, etc.) and one definition are included.</li>
+    <li><b>Data extraction will be improved and other versions of the word (verb, adjective, etc.) and multiple definitions will be added!!!</b></li>
+    <li><b>For the webpage, there will be style editing and new features will be added!!!</b></li>
+</ul>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
