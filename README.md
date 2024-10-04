@@ -17,6 +17,11 @@ Features:
     <li><b>For the webpage, there will be style editing and new features will be added!!!</b></li>
 </ul>
 
+<h4>Images of the WebPage</h4>
+<br>
+<img src="https://github.com/user-attachments/assets/58793c30-8b85-4994-af9b-5f04fdcd09c5" width=500px/><br>
+<img src="https://github.com/user-attachments/assets/c4bf69df-3086-4884-87dd-ab900f77cb1f" width=500px/><br>
+<img src="https://github.com/user-attachments/assets/77c5c0d4-5868-43a5-a57f-78f3675c90ab" width=500px/><br>
 
 
 # Getting Started with Create React App
