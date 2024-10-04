@@ -13,6 +13,7 @@ Features:
     <li>It starts fetching data as soon as you start typing and displays the words that inside of your typing until you finish typing.</li>
     <li>The word reading feature has been added. Click on the voice button.</li>
     <li>Only one version of the word (noun, verb, etc.) and one definition are included.</li>
+    <li>Vocabulary information is not displayed if the word is not correct.</li>
     <li><b>Data extraction will be improved and other versions of the word (verb, adjective, etc.) and multiple definitions will be added!!!</b></li>
     <li><b>For the webpage, there will be style editing and new features will be added!!!</b></li>
 </ul>
@@ -22,6 +23,7 @@ Features:
 <img src="https://github.com/user-attachments/assets/58793c30-8b85-4994-af9b-5f04fdcd09c5" width=500px/><br>
 <img src="https://github.com/user-attachments/assets/a99b9939-06f2-47d4-96a7-2e8653eb6c69" width=500px/><br>
 <img src="https://github.com/user-attachments/assets/77c5c0d4-5868-43a5-a57f-78f3675c90ab" width=500px/><br>
+<img src="https://github.com/user-attachments/assets/95bcba24-ef55-482d-8fb0-0a0541f084f7" width=500px/><br>
 
 
 
